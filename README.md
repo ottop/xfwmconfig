@@ -1,2 +1,2 @@
 # xfwmconfig
-My configuration for XFWM4
+Place the files in ~/.config/xfce4/xfconf/xfce-perchannel-xml
